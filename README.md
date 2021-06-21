@@ -2,7 +2,7 @@
 
 # 电路系统
 
-[电路布线基础知识](https://docs.google.com/viewer?url=https://Wiring-Unlimited-EN.pdf.pdf)
+[电路布线基础知识](https://docs.google.com/viewer?url=https://github.com/RVConversion/rvconversion/tree/main/docs//Wiring-Unlimited-EN.pdf)
 
 ## 12V 系统
 
