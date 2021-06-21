@@ -2,7 +2,7 @@
 
 # 电路系统
 
-![2525-van-overall-idea.png](images/2525-van-overall-idea.png)
+![2525-van-overall-idea.png](images/12V-electrical-wiring-water.png)
 
 ## 12v/24v系统
 
