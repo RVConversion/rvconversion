@@ -1,14 +1,11 @@
-# RV conversion 知识分享红宝书
 
 # 电路系统
 
-[电路布线基础知识 PDF](docs/Wiring-Unlimited-EN.pdf)
+[电路布线基础知识 PDF](../Wiring-Unlimited-EN.pdf)
 
 ## 12V 系统
 
-![12V-electrical-wiring-water.png](images/12V-electrical-wiring-water.png)
-
-
+![12V-electrical-wiring-water.png](../../images/12V-electrical-wiring-water.png)
 
 ## 12v/24v系统
 
@@ -35,21 +32,3 @@ LiFePO4电池能够运行3,000次循环，大多数人将使用这些电池10到
 ## 110V 电路系统
 
 ## 12v/24v 110v 转换系统
-
-# 水路系统
-
-# 车身保温
-
-# 新风系统
-
-## 冷
-
-## 热
-
-# 内部装修
-
-## 龙骨
-
-## 地板
-
-# 外部装修
