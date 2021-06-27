@@ -7,6 +7,10 @@
 
 ![12V-electrical-wiring-water.png](../../images/12V-electrical-wiring-water.png)
 
+## 24v All in One
+![24V-electrical-wiring-all-in-one.png](../../images/24V-electrical-wiring-all-in-one.png)
+
+
 ## 12v/24v系统
 
 ### 太阳能
