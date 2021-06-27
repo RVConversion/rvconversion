@@ -1,7 +1,7 @@
 
 # 电路系统
 
-[电路布线基础知识 PDF](../Wiring-Unlimited-EN.pdf)
+[电路布线基础知识 PDF](Wiring-Unlimited-EN.pdf)
 
 ## 12V 系统
 
